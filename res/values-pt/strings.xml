@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Optimal Battery Saver</string>
+    <string name="ps_mode">Optimal Battery Saver</string>
+    <string name="wid_upgr">Atualize para ativar este widget</string>
+    <string name="wid_upgr_txt">Atualize agora por 99 centavos!</string>
+    <string name="data">DADOS</string>
+    <string name="auto">Automático</string>
+    <string name="more_apps">Mais aplicativos legais!</string>
+     <string name="settings">Configurações</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="refund_pol">*Você tem a garantia da política de reembolsos do Google Play. Se, por QUALQUER motivo, você não gostar do aplicativo, sinta-se a vontade para pedir reembolso de acordo com a política de reembolsos da Google Play Store..</string>
+     <string name="timeselected">Definir intervalo de tempo</string>
+    <string name="power_saver">Modo de economia de energia</string>
+    <string name="phn_set">Configurações do telefone</string>
+    <string name="power_saver_txt">Modo de economia de energia</string>
+    <string name="title_activity_main">Atividade principal</string>
+    <string name="pw_set">Quando estiver no modo de economia de energia, a Internet WIFI/Móvel é ligada e desligada periodicamente para economizar bateria e largura de banda. Você pode manter os valores padrão ou personalizá-los abaixo.</string>
+    <string name="pw_set2">Alterar configurações de intervalo:</string>
+<string name="pw_set3">Em intervalos de:</string>
+<string name="net_on">Lembre-se de adicionar nosso widget na área de trabalho para poder controlar o WIFI, DADOS e configurações diretamente da sua área de trabalho!</string>
+<string name="min">minutos</string>
+<string name="slp_on">O modo de Economia de energia está LIGADO durante o modo em espera.A rede WIFI/Dados permanecerá DESLIGADA quando o telefone está em modo em espera.A rede WIFI/Dados será ativada quando o telefone está em uso, conforme as configurações acima.</string>
+<string name="slp_off">O modo de Economia de energia está DESLIGADO durante o modo em espera. \nA rede WIFI/Dados eventualmente irá LIGAR quando o telefone estiver em modo em espera. O Wifi/Dados será ativado com o telefone em uso.</string>
+<string name="cur_state">Estado atual:</string>
+<string name="change_set">Alterar configurações</string>
+<string name="change_set2">Toque aqui para confirmar as alterações</string>
+<string name="app_spec">Configurações específicas do aplicativo</string>
+<string name="net">Rede</string>
+<string name="upd_free">** E obtenha atualizações gratuitas para sempre **</string>
+<string name="upsell_btn">Baixe agora por apenas 99 centavos!</string>
+<string name="upsell_copy">Muito tempo e esforço são dedicados para criar os aplicativos. Para aproveitar todos os recursos, leve em consideração atualizar para a versão PRO (sem anúncios) por apenas 99 centavos! \n\nObtenha também um widget super legal para a área de trabalho para ligar/desligar as redes de Wifi e dados. \nTodas as atualizações futuras são gratuitas </string>
+<string name="upsell_copy2">A versão avançada dá acesso simplificado ao widget da área de trabalho, juntamente com todos os recursos avançados, para que sua bateria tenha maior duração.</string>
+<string name="feat_pro">Recursos na versão completa:</string>
+<string name="confirm">Confirmar configurações</string>
+<string name="notif">Notificações</string>
+<string name="cust_apps">Personalizar as configurações do aplicativo</string>
+<string name="adv_set">Configurações avançadas</string>
+<string name="adv_set_txt">Se quiser alterar as configurações padrão de economia de energia, toque no botão abaixo.</string>
+<string name="sleep">Configurações do Modo em espera</string>
+<string name="sleep_txt">Choosing YES (that\'s power saver ON) below will keep Internet/WIFI turned OFF while your phone is in sleep mode.</string>
+<string name="wifi">WIFI</string>
+<string name="simple_mode">Back to Simple Mode</string>
+<string name="welcome">Este aplicativo se destina a economizar recursos da bateria ajustando seu Wi-Fi e o uso da rede de dados móveis
+</string>
+<string name="mob_net">Mobile Internet</string>
+<string name="app_set">Tap on the button below to customize application related settings. \nSelecting an application from the list will keep Internet ON while that application is in active use. \n \nEg. If you have selected Facebook from the list, WIFI will continue to run when Facebook is the active (visible) application.</string>
+<string name="app_set_btn">Click here to change app settings</string>
+<string name="cst">Advanced Settings</string>
+<string name="net_txt">Selecione em qual rede você deseja utilizar o Modo de economia de energia. Isto se torna mais útil quando você não está dentro do alcance do WIFI e deseja reduzir custos de dados móveis.Observação: o modo automático irá conectar primeiramente a uma rede WIFI disponível.Se o WIFI estiver indisponível, a conexão será com os dados móveis.Se você não utiliza dados móveis, selecione somente WIFI.</string>
+
+<string name="wifion">Wifi LIGADO</string>
+<string name="wifioff">Wifi DESLIGADO</string>
+<string name="poweroff">Wifi DESLIGADO</string>
+<string name="poweron">Economia de energia DESLIGADA</string>
+<string name="dataoff">Dados LIGADOS</string>
+<string name="dataon">Dados DESLIGADOS</string>
+<string name="appnotfound">Aplicativo não encontrado</string>
+<string name="wait">Aguarde... configurando a economia de energia</string>
+<string name="psslpon">Modo de economia de energia LIGADO durante o modo em espera</string>
+<string name="psslpoff">Modo de economia de energia DESLIGADO durante o modo em espera</string>
+<string name="nonet">Rede inacessível</string>
+<string name="nonotif">Nenhuma notificação foi encontrada</string>
+<string name="unerr">Erro desconhecido</string>
+<string name="setsave">Configurações salvas</string>
+<string name="welc">Seja bem-vindo</string>
+<string name="setchg">Configurações alteradas com sucesso</string>
+
+</resources>

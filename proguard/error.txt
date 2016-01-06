@@ -1,0 +1,18 @@
+java.lang.RuntimeException: Unable to resume activity {com.rainmaker.android.batterysaver/com.rainmaker.android.batterysaver.Preferences}: java.lang.NullPointerException
+at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2124)
+at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:2139)
+at android.app.ActivityThread$H.handleMessage(ActivityThread.java:961)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loop(Looper.java:130)
+at android.app.ActivityThread.main(ActivityThread.java:3687)
+at java.lang.reflect.Method.invokeNative(Native Method)
+at java.lang.reflect.Method.invoke(Method.java:507)
+at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:867)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:625)
+at dalvik.system.NativeStart.main(Native Method)
+Caused by: java.lang.NullPointerException
+at com.rainmaker.android.batterysaver.Preferences.onRestart(Unknown Source)
+at android.app.Instrumentation.callActivityOnRestart(Instrumentation.java:1139)
+at android.app.Activity.performRestart(Activity.java:3815)
+at android.app.Activity.performResume(Activity.java:3826)
+at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2114)

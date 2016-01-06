@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Optimal Battery Saver</string>
+    <string name="ps_mode">Optimal Battery Saver</string>
+    <string name="wid_upgr">Mangyaring mag-upgrade para paganahin ang widget</string>
+    <string name="wid_upgr_txt">Mag-upgrade ngayon sa halagang 99 cents lang!</string>
+    <string name="data">DATA</string>
+    <string name="auto">Automatic</string>
+    <string name="more_apps">Mas maraming mga cool na app!</string>
+     <string name="settings">Mga Setting</string>
+    <string name="menu_settings">Mga Setting</string>
+    <string name="refund_pol">*Sakop ka sa ilalim ng patakaran ng Google Play sa pag-refund.Kung sa ANUMANG dahilan ay di mo nagustuhan ang app, malaya kang i-refund ito ayn sa patakaran ng Google Play Store sa pag-refund.</string>
+     <string name="timeselected">Itakda ang Pagitan ng Oras</string>
+    <string name="power_saver">Power Saver na Mode</string>
+    <string name="phn_set">Mga Setting ng Telepono</string>
+    <string name="power_saver_txt">ower Saver na Mode</string>
+    <string name="title_activity_main">Pangunahing Aktibidad</string>
+    <string name="pw_set">Kapag nasa power saver na mode, papalit-palit na io-on at io-off ang WIFI/Mobile Internet upang makatipid sa baterya at sa bandwidth. Maaari mong iwan ang mga default na halaga o pumili sa ibaba para ipasadya ito.</string>
+    <string name="pw_set2">Palitan ang Mga Setting ng Pagitan</string>
+<string name="pw_set3">Sa mga pagitang:</string>
+<string name="net_on">Tandaang idagdag ang aming desktop widget upang makontrol mo ang WIFI, DATA at setting mula mismo sa iyong desktop!</string>
+<string name="min">minuto</string>
+<string name="slp_on">Naka-ON ang Power Saver na mode habang nasa sleep mode.\Mananatiling naka-OFF ang WIFI/Data network habang ang telepono ay nasa sleep mode.Pagaganahin ang Wifi/Data kapag ginagamit ang telepono, batay sa mga setting sa itaas.</string>
+<string name="slp_off">Ang Power Saver na mode ay NAKA-OFF habang nasa sleep mode. \nAng WIFI/Data network ay paminsan-minsang mag-O-ON habang nasa sleep mode ang telepono..</string>
+<string name="cur_state">Kasalukuyang Estado:</string>
+<string name="change_set">Palitan ang Mga Setting</string>
+<string name="change_set2">I-tap dito para kumpirmahin ang mga pagbabago</string>
+<string name="app_spec">Mga Setting na Partikular sa Aplikasyon</string>
+<string name="net">Network</string>
+<string name="upd_free">** At makakuha ng mga panghabang-buhay na update nang libre **</string>
+<string name="upsell_btn">I-download ngayon sa halagang 99 cents lang!</string>
+<string name="upsell_copy">Maraming oras at trabaho ang ginugul sa paggawa ng mga app. Para magamit lahat ng mga tampok, mangyaring iaalang-alang ang pag-upgrade sa PRO na bersiyon (walang mga ad) sa halagang 99 cents lang! \n\nMakakuha din ng napaka-cool na desktop widget para i-on/off ang Wifi at mga Data network. \nLahat ng mga upgrade sa hinaharap ay libre. </string>
+<string name="upsell_copy2">Binibigyan ka ng advanced na bersiyon ng madaling access na desktop widget kasama ng lahat ng mga advanced na setting para mas mapatagal ang iyong baterya..</string>
+<string name="feat_pro">Mga tampok sa buong bersiyon:</string>
+<string name="confirm">Kumpirmahin ang Mga Setting</string>
+<string name="notif">Mga Abiso</string>
+<string name="cust_apps">Ipasadya ang Mga Setting ng Aplikasyon</string>
+<string name="adv_set">Mga Advanced na Setting</string>
+<string name="adv_set_txt">Kung gusto mong palitan ang default na mga power saving na setting, i-tap ang button sa ibaba..</string>
+<string name="sleep">Mga Setting ng Sleep Mode</string>
+<string name="sleep_txt">Ang pagpili ng OO (iyon ay I-ON ang power saver) sa ibaba ay magpapanatili sa Internet/WIFI na NAKA-OFF habang ang telepono mo ay nasa sleep mode..</string>
+<string name="wifi">WIFI</string>
+<string name="simple_mode">Bumalik sa Simple na Mode</string>
+<string name="welcome">Dinesenyo ang app na ito para makatipid sa mga gagamiting baterya sa pamamagitan ng pagreregula ng iyong paggamit sa network gamit ang WIFI at Mobile Data.MAS mapapatagal mo ang baterya mo at makakatipid din ng pera sa alinmang mobile na network na kokonektahan moAng kailangan mo lang gawin ay I-ON ang power saver sa pamamagitan ng pag-click sa button sa itaas.
+</string>
+<string name="mob_net">Mobile na Internet</string>
+<string name="app_set">I-tap ang button sa ibaba upang ipasadya ang mga setting na kaugnay ng aplikasyon. Ang pagpili ng aplikasyon mula sa listahan ay magpapanatiling ON sa Internet habang ang aplikasyong iyon ay nasa aktibong paggamit.Hal. Kung pinili mo ang Facebook mula sa listahan, magpapatuloy ang pagtakbo ng WIFI kapag ang Facebook ay ang aktibong (nakikitang) aplikasyon.</string>
+<string name="app_set_btn">I-click dito para palitan ang mga setting ng app</string>
+<string name="cst">Mga Advanced na Setting</string>
+<string name="net_txt">Piliin kung aling network mo nais gaitin ang Power Saver na Mode. Mas kapakipakinabang kapag wala ka sa loob ng sakop ng WIFI at nais makabawas sa mga gastos sa mobile na data.Tandaan: Ang automatic na mode ay kokonekta muna sa magagamit na WIFI na network.Kung hindi magagamit ang WIFI, kumonekta sa mobile na data.Kapag hindi ka gumagamit ng mobile na data, pakipili ang WIFI lang.</string>
+
+<string name="wifion">Wifi ON</string>
+<string name="wifioff">Wifi Off</string>
+<string name="poweroff">Power Saver OFF</string>
+<string name="poweron">Power Saver ON</string>
+<string name="dataoff">Data Off</string>
+<string name="dataon">Data On</string>
+<string name="appnotfound">Hindi Nahanap ang Aplikasyon</string>
+<string name="wait">Pakihintay.. Sine-set up ang battery saver</string>
+<string name="psslpon">Ang Power Saver na mode ay naka-ON sa panahon ng sleep mode</string>
+<string name="psslpoff">Ang Power Saver na mode ay naka-OFF sa panahon ng sleep mode</string>
+<string name="nonet">Hindi Maabot ang Network</string>
+<string name="nonotif">Walang nahanap na mga abiso</string>
+<string name="unerr">Hindi Kilalang Error</string>
+<string name="setsave">Na-save ang Mga Setting</string>
+<string name="welc">Welcome</string>
+<string name="setchg">Matagumpay na Napalitan ang Mga Setting</string>
+
+</resources>

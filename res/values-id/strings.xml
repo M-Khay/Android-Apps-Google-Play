@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Optimal Battery Saver</string>
+    <string name="ps_mode">Optimal Battery Saver</string>
+    <string name="wid_upgr">Tingkatkan untuk mengaktifkan widget</string>
+    <string name="wid_upgr_txt">Tingkatkan sekarang hanya dengan 99 sen!</string>
+    <string name="data">DATA</string>
+    <string name="auto">Otomatis</string>
+    <string name="more_apps">Aplikasi keren lain!</string>
+     <string name="settings">Pengaturan</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="refund_pol">*Anda terlindungi oleh kebijakan pengembalian dana Google Play. Untuk alasan APA PUN, jika Anda tidak menyukai aplikasi ini, Anda dapat mengajukan pengembalian dana sesuai dengan kebijakan pengembalian dana Google Play Store.</string>
+     <string name="timeselected">Atur Selang Waktu</string>
+    <string name="power_saver">Modus Hemat Daya</string>
+    <string name="phn_set">Pengaturan Ponsel</string>
+    <string name="power_saver_txt">Modus Hemat Daya</string>
+    <string name="title_activity_main">Kegiatan Utama</string>
+    <string name="pw_set">Ketika dalam modus hemat daya, WIFI/Internet Mobile akan menyala dan mati pada selang waktu untuk menghemat baterai dan bandwidth. Anda bisa mengunakan nilai default atau menyesuaikannya di bawah ini.</string>
+    <string name="pw_set2">Ubah Pengaturan Selang Waktu:</string>
+<string name="pw_set3">Selang waktu:</string>
+<string name="net_on">Jangan lupa untuk menambahkan widget desktop kami agar Anda dapat mengelola WIFI, DATA dan pengaturan langsung dari desktop Anda!NYALAKAN Internet setiap kali ponsel dibuka?</string>
+<string name="min">menit</string>
+<string name="slp_on">Modus Penghemat Daya MENYALA selama modus tidur. Jaringan WIFI/Data akan tetap MATI ketika ponsel dalam modus tidur. Wifi/Data akan diaktifkan saat ponsel digunakan, berdasarkan pengaturan di atas.</string>
+<string name="slp_off">Modus Penghemat Daya MATI selama modus tidur. \nJaringan WIFI/Data sesekali akan MENYALA ketika ponsel dalam modus tidur.Wifi/Data akan diaktifkan saat ponsel sedang digunakan.</string>
+<string name="cur_state">Status Sekarang:</string>
+<string name="change_set">Ubah Pengaturan</string>
+<string name="change_set2">Ketuk di sini untuk mengonfirmasikan perubahan</string>
+<string name="app_spec">Pengaturan Aplikasi Tertentu</string>
+<string name="net">Jaringan</string>
+<string name="upd_free">** Dan dapatkan pembaruan seumur hidup secara gratis **</string>
+<string name="upsell_btn">Unduh sekarang hanya dengan 99 sen!</string>
+<string name="upsell_copy">Pembangunan sebuah aplikasi membutuhkan banyak waktu dan upaya. Untuk memanfaatkan semua fitur, pertimbangkan untuk meningkatkan aplikasi ke versi PRO (tanpa iklan) hanya dengan 99 sen! \n\nDapatkan juga widget desktop super keren untuk menyalakan/mematikan jaringan Wifi dan Data. \nSeluruh peningkatan berikutnya bebas biaya. </string>
+<string name="upsell_copy2">Versi tingkat lanjut memberikan Anda akses mudah ke widget desktop dan pengaturan canggih lainnya untuk membuat baterai Anda semakin tahan lama.</string>
+<string name="feat_pro">Fitur dalam versi penuh:</string>
+<string name="confirm">Konfirmasikan Pengaturan</string>
+<string name="notif">Notifikasi</string>
+<string name="cust_apps">Sesuaikan Pengaturan Aplikasi</string>
+<string name="adv_set">Pengaturan Lanjut</string>
+<string name="sleep">Sleep Mode Settings</string>
+<string name="adv_set_txt">Jika Anda ingin mengubah pengaturan default untuk penghematan daya, ketuk tombol di bawah ini.</string>
+<string name="sleep_txt">Dengan memilih YA (penghemat daya MENYALA) di bawah ini, maka Internet/WIFI akan MATI saat ponsel Anda dalam modus tidur.</string>
+<string name="wifi">WIFI</string>
+<string name="simple_mode">Kembali ke Modus Sederhana</string>
+<string name="welcome">Aplikasi ini dirancang untuk menghemat daya baterai dengan mengelola penggunaan jaringan WIFI dan Data Mobile Anda.Anda bisa membuat baterai Anda jauh lebih TAHAN LAMA dan juga berhemat biaya untuk koneksi jaringan mobile Anda Yang perlu Anda lakukan hanyalah MENYALAKAN penghemat daya dengan mengklik tombol di atas.
+</string>
+<string name="mob_net">Internet Mobile</string>
+<string name="app_set">Ketuk tombol di bawah ini untuk menyesuaikan pengaturan terkait aplikasi. Memilih aplikasi dari daftar akan membuat Internet MENYALA ketika aplikasi tersebut sedang aktif digunakan. Misalnya, jika Anda memilih Facebook dari daftar, WIFI akan terus aktif ketika aplikasi Facebook digunakan (terlihat).</string>
+<string name="app_set_btn">Klik di sini untuk mengubah pengaturan aplikasi</string>
+<string name="cst">Pengaturan Lanjut</string>
+<string name="net_txt">Pilihlah jaringan mana yang ingin Anda gunakan dengan Modus Hemat Daya. Sangat berguna terutama saat Anda berada di luar jangkauan WIFI dan ingin menghemat biaya data.Catatan: Modus otomatis akan menghubungkan ke jaringan WIFI yang tersedia terlebih dahulu.Jika Anda tidak menggunakan data mobile, harap pilih WIFI saja..</string>
+
+<string name="wifion">Wifi NYALA</string>
+<string name="wifioff">Wifi Mati</string>
+<string name="poweroff">Penghemat Daya MATI</string>
+<string name="poweron">Penghemat Daya NYALA</string>
+<string name="dataoff">Data Mati</string>
+<string name="dataon">Data Nyala</string>
+<string name="appnotfound">Aplikasi Tidak Ditemukan</string>
+<string name="wait">Mohon menunggu… mengatur penghemat baterai</string>
+<string name="psslpon">Modus Penghemat Daya NYALA selama modus tidur</string>
+<string name="psslpoff">Modus Penghemat Daya MATI selama modus tidur</string>
+<string name="nonet">Jaringan Tidak Terjangkau</string>
+<string name="nonotif">Notifikasi tidak ditemukan</string>
+<string name="unerr">Galat Tak Dikenal 
+</string>
+<string name="setsave">Pengaturan Disimpan</string>
+<string name="welc">Selamat Datang</string>
+<string name="setchg">Pengaturan Berhasil Diubah</string>
+
+</resources>
+

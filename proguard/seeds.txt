@@ -1,0 +1,311 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.ads.AdActivity
+com.google.ads.AdActivity: AdActivity()
+com.google.ads.AdActivity: void onClick(android.view.View)
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode[] values()
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode valueOf(java.lang.String)
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender[] values()
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender valueOf(java.lang.String)
+com.google.ads.AdView: void setAdListener(com.google.ads.AdListener)
+com.google.ads.AdView: void setAppEventListener(com.google.ads.AppEventListener)
+com.google.ads.AdView: void setSwipeableEventListener(com.google.ads.SwipeableAdListener)
+com.google.ads.AdView: void setSupportedAdSizes(com.google.ads.AdSize[])
+com.google.ads.doubleclick.DfpAdView: void setAppEventListener(com.google.ads.AppEventListener)
+com.google.ads.doubleclick.DfpAdView: void setSupportedAdSizes(com.google.ads.AdSize[])
+com.google.ads.doubleclick.SwipeableDfpAdView: void setSwipeableEventListener(com.google.ads.SwipeableAdListener)
+com.google.ads.g$a: com.google.ads.g$a[] values()
+com.google.ads.g$a: com.google.ads.g$a valueOf(java.lang.String)
+com.google.ads.internal.ActivationOverlay: void setOverlayEnabled(boolean)
+com.google.ads.internal.ActivationOverlay: void setOverlayActivated(boolean)
+com.google.ads.internal.ActivationOverlay: void setYPosition(int)
+com.google.ads.internal.ActivationOverlay: void setXPosition(int)
+com.google.ads.internal.AdVideoView: void setMediaControllerEnabled(boolean)
+com.google.ads.internal.AdVideoView: void setSrc(java.lang.String)
+com.google.ads.internal.AdWebView: void setAdActivity(com.google.ads.AdActivity)
+com.google.ads.internal.AdWebView: void setAdSize(com.google.ads.AdSize)
+com.google.ads.internal.AdWebView: void setCustomClose(boolean)
+com.google.ads.internal.AdWebView: void setIsExpandedMraid(boolean)
+com.google.ads.internal.c$d: com.google.ads.internal.c$d[] values()
+com.google.ads.internal.c$d: com.google.ads.internal.c$d valueOf(java.lang.String)
+com.google.ads.searchads.SearchAdRequest$BorderType: com.google.ads.searchads.SearchAdRequest$BorderType[] values()
+com.google.ads.searchads.SearchAdRequest$BorderType: com.google.ads.searchads.SearchAdRequest$BorderType valueOf(java.lang.String)
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a[] values()
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a valueOf(java.lang.String)
+com.google.ads.util.b$a: com.google.ads.util.b$a[] values()
+com.google.ads.util.b$a: com.google.ads.util.b$a valueOf(java.lang.String)
+com.google.android.gcm.GCMBaseIntentService: GCMBaseIntentService()
+com.google.android.gcm.GCMBaseIntentService: GCMBaseIntentService(java.lang.String[])
+com.google.android.gcm.GCMBaseIntentService: GCMBaseIntentService(java.lang.String,java.lang.String[])
+com.google.android.gcm.GCMBroadcastReceiver
+com.google.android.gcm.GCMBroadcastReceiver: GCMBroadcastReceiver()
+com.rainmaker.android.batterysaver.AlarmCreator
+com.rainmaker.android.batterysaver.AlarmCreator: AlarmCreator()
+com.rainmaker.android.batterysaver.AllBroadcastReceiver
+com.rainmaker.android.batterysaver.AllBroadcastReceiver: AllBroadcastReceiver()
+com.rainmaker.android.batterysaver.AppManager
+com.rainmaker.android.batterysaver.AppManager: AppManager()
+com.rainmaker.android.batterysaver.BattWidgetProvider
+com.rainmaker.android.batterysaver.BattWidgetProvider: BattWidgetProvider()
+com.rainmaker.android.batterysaver.BatterySaver
+com.rainmaker.android.batterysaver.BatterySaver: BatterySaver()
+com.rainmaker.android.batterysaver.CheckableRelativeLayout: void setChecked(boolean)
+com.rainmaker.android.batterysaver.GCMIntentService
+com.rainmaker.android.batterysaver.GCMIntentService: GCMIntentService()
+com.rainmaker.android.batterysaver.InertCheckBox: void setChecked(boolean)
+com.rainmaker.android.batterysaver.NetworkScreenOnHelper
+com.rainmaker.android.batterysaver.NetworkScreenOnHelper: NetworkScreenOnHelper()
+com.rainmaker.android.batterysaver.NotifView
+com.rainmaker.android.batterysaver.NotifView: NotifView()
+com.rainmaker.android.batterysaver.Notifications
+com.rainmaker.android.batterysaver.Notifications: Notifications()
+com.rainmaker.android.batterysaver.Preferences
+com.rainmaker.android.batterysaver.Preferences: Preferences()
+com.rainmaker.android.batterysaver.R$color: int black
+com.rainmaker.android.batterysaver.R$color: int blue
+com.rainmaker.android.batterysaver.R$color: int darkblue
+com.rainmaker.android.batterysaver.R$color: int green
+com.rainmaker.android.batterysaver.R$color: int grey
+com.rainmaker.android.batterysaver.R$color: int lite_blue
+com.rainmaker.android.batterysaver.R$color: int orange
+com.rainmaker.android.batterysaver.R$color: int white
+com.rainmaker.android.batterysaver.R$drawable: int btn_close
+com.rainmaker.android.batterysaver.R$drawable: int btn_close_normal
+com.rainmaker.android.batterysaver.R$drawable: int btn_close_pressed
+com.rainmaker.android.batterysaver.R$drawable: int btn_close_selected
+com.rainmaker.android.batterysaver.R$drawable: int checkbox
+com.rainmaker.android.batterysaver.R$drawable: int checkbox_off_background
+com.rainmaker.android.batterysaver.R$drawable: int checkbox_off_background_focus_yellow
+com.rainmaker.android.batterysaver.R$drawable: int checkbox_on_background
+com.rainmaker.android.batterysaver.R$drawable: int checkbox_on_background_focus_yellow
+com.rainmaker.android.batterysaver.R$drawable: int data_off
+com.rainmaker.android.batterysaver.R$drawable: int data_on
+com.rainmaker.android.batterysaver.R$drawable: int ic_action_search
+com.rainmaker.android.batterysaver.R$drawable: int ic_launcher
+com.rainmaker.android.batterysaver.R$drawable: int icon_notif
+com.rainmaker.android.batterysaver.R$drawable: int mode_off
+com.rainmaker.android.batterysaver.R$drawable: int mode_on
+com.rainmaker.android.batterysaver.R$drawable: int myselect
+com.rainmaker.android.batterysaver.R$drawable: int mystyles
+com.rainmaker.android.batterysaver.R$drawable: int refresh
+com.rainmaker.android.batterysaver.R$drawable: int refresh_rotate
+com.rainmaker.android.batterysaver.R$drawable: int settings
+com.rainmaker.android.batterysaver.R$drawable: int widget_pik
+com.rainmaker.android.batterysaver.R$drawable: int wifi_off
+com.rainmaker.android.batterysaver.R$drawable: int wifi_on
+com.rainmaker.android.batterysaver.R$id: int CheckBox01
+com.rainmaker.android.batterysaver.R$id: int app_cust
+com.rainmaker.android.batterysaver.R$id: int app_set
+com.rainmaker.android.batterysaver.R$id: int autonet
+com.rainmaker.android.batterysaver.R$id: int button1
+com.rainmaker.android.batterysaver.R$id: int close
+com.rainmaker.android.batterysaver.R$id: int cust
+com.rainmaker.android.batterysaver.R$id: int data_toggle
+com.rainmaker.android.batterysaver.R$id: int desc
+com.rainmaker.android.batterysaver.R$id: int friend_item
+com.rainmaker.android.batterysaver.R$id: int gotomkt
+com.rainmaker.android.batterysaver.R$id: int imageView1
+com.rainmaker.android.batterysaver.R$id: int info
+com.rainmaker.android.batterysaver.R$id: int ivIcon
+com.rainmaker.android.batterysaver.R$id: int layout_root
+com.rainmaker.android.batterysaver.R$id: int mainListView
+com.rainmaker.android.batterysaver.R$id: int menu_settings
+com.rainmaker.android.batterysaver.R$id: int mob_net
+com.rainmaker.android.batterysaver.R$id: int mode_toggle
+com.rainmaker.android.batterysaver.R$id: int name
+com.rainmaker.android.batterysaver.R$id: int netonwakeup
+com.rainmaker.android.batterysaver.R$id: int notif_list
+com.rainmaker.android.batterysaver.R$id: int powersaver
+com.rainmaker.android.batterysaver.R$id: int radioGroup1
+com.rainmaker.android.batterysaver.R$id: int refresh
+com.rainmaker.android.batterysaver.R$id: int rel
+com.rainmaker.android.batterysaver.R$id: int relpref
+com.rainmaker.android.batterysaver.R$id: int revmob
+com.rainmaker.android.batterysaver.R$id: int rowTextView
+com.rainmaker.android.batterysaver.R$id: int scrollView1
+com.rainmaker.android.batterysaver.R$id: int setbutton
+com.rainmaker.android.batterysaver.R$id: int settings_btn
+com.rainmaker.android.batterysaver.R$id: int simple_mode
+com.rainmaker.android.batterysaver.R$id: int sleep_mode
+com.rainmaker.android.batterysaver.R$id: int sleep_mode_txt
+com.rainmaker.android.batterysaver.R$id: int spinner1
+com.rainmaker.android.batterysaver.R$id: int textView1
+com.rainmaker.android.batterysaver.R$id: int textView10
+com.rainmaker.android.batterysaver.R$id: int textView11
+com.rainmaker.android.batterysaver.R$id: int textView12
+com.rainmaker.android.batterysaver.R$id: int textView13
+com.rainmaker.android.batterysaver.R$id: int textView2
+com.rainmaker.android.batterysaver.R$id: int textView3
+com.rainmaker.android.batterysaver.R$id: int textView4
+com.rainmaker.android.batterysaver.R$id: int textView5
+com.rainmaker.android.batterysaver.R$id: int textView6
+com.rainmaker.android.batterysaver.R$id: int textView7
+com.rainmaker.android.batterysaver.R$id: int textView8
+com.rainmaker.android.batterysaver.R$id: int textView9
+com.rainmaker.android.batterysaver.R$id: int time1
+com.rainmaker.android.batterysaver.R$id: int time2
+com.rainmaker.android.batterysaver.R$id: int time3
+com.rainmaker.android.batterysaver.R$id: int time4
+com.rainmaker.android.batterysaver.R$id: int time5
+com.rainmaker.android.batterysaver.R$id: int time6
+com.rainmaker.android.batterysaver.R$id: int time7
+com.rainmaker.android.batterysaver.R$id: int time8
+com.rainmaker.android.batterysaver.R$id: int title
+com.rainmaker.android.batterysaver.R$id: int toggleButton1
+com.rainmaker.android.batterysaver.R$id: int webView1
+com.rainmaker.android.batterysaver.R$id: int wifi
+com.rainmaker.android.batterysaver.R$id: int wifi_or_data
+com.rainmaker.android.batterysaver.R$id: int wifi_toggle
+com.rainmaker.android.batterysaver.R$id: int wl_list
+com.rainmaker.android.batterysaver.R$layout: int activity_main
+com.rainmaker.android.batterysaver.R$layout: int app_manager
+com.rainmaker.android.batterysaver.R$layout: int batt_save_main
+com.rainmaker.android.batterysaver.R$layout: int batt_widget_layout
+com.rainmaker.android.batterysaver.R$layout: int loader
+com.rainmaker.android.batterysaver.R$layout: int main
+com.rainmaker.android.batterysaver.R$layout: int notif_list
+com.rainmaker.android.batterysaver.R$layout: int notif_view
+com.rainmaker.android.batterysaver.R$layout: int prefs_maon
+com.rainmaker.android.batterysaver.R$layout: int simple_main
+com.rainmaker.android.batterysaver.R$layout: int simplerow
+com.rainmaker.android.batterysaver.R$layout: int upgrade_widget_layout
+com.rainmaker.android.batterysaver.R$layout: int upsell
+com.rainmaker.android.batterysaver.R$layout: int upsell_pro
+com.rainmaker.android.batterysaver.R$layout: int wl_item
+com.rainmaker.android.batterysaver.R$layout: int wl_list
+com.rainmaker.android.batterysaver.R$menu: int activity_main
+com.rainmaker.android.batterysaver.R$menu: int time_interval
+com.rainmaker.android.batterysaver.R$string: int adv_set
+com.rainmaker.android.batterysaver.R$string: int adv_set_txt
+com.rainmaker.android.batterysaver.R$string: int app_name
+com.rainmaker.android.batterysaver.R$string: int app_set
+com.rainmaker.android.batterysaver.R$string: int app_set_btn
+com.rainmaker.android.batterysaver.R$string: int app_spec
+com.rainmaker.android.batterysaver.R$string: int appnotfound
+com.rainmaker.android.batterysaver.R$string: int auto
+com.rainmaker.android.batterysaver.R$string: int change_set
+com.rainmaker.android.batterysaver.R$string: int change_set2
+com.rainmaker.android.batterysaver.R$string: int confirm
+com.rainmaker.android.batterysaver.R$string: int cst
+com.rainmaker.android.batterysaver.R$string: int cur_state
+com.rainmaker.android.batterysaver.R$string: int cust_apps
+com.rainmaker.android.batterysaver.R$string: int data
+com.rainmaker.android.batterysaver.R$string: int dataoff
+com.rainmaker.android.batterysaver.R$string: int dataon
+com.rainmaker.android.batterysaver.R$string: int feat_pro
+com.rainmaker.android.batterysaver.R$string: int menu_settings
+com.rainmaker.android.batterysaver.R$string: int min
+com.rainmaker.android.batterysaver.R$string: int mob_net
+com.rainmaker.android.batterysaver.R$string: int more_apps
+com.rainmaker.android.batterysaver.R$string: int net
+com.rainmaker.android.batterysaver.R$string: int net_on
+com.rainmaker.android.batterysaver.R$string: int net_txt
+com.rainmaker.android.batterysaver.R$string: int nonet
+com.rainmaker.android.batterysaver.R$string: int nonotif
+com.rainmaker.android.batterysaver.R$string: int notif
+com.rainmaker.android.batterysaver.R$string: int phn_set
+com.rainmaker.android.batterysaver.R$string: int power_saver
+com.rainmaker.android.batterysaver.R$string: int power_saver_txt
+com.rainmaker.android.batterysaver.R$string: int poweroff
+com.rainmaker.android.batterysaver.R$string: int poweron
+com.rainmaker.android.batterysaver.R$string: int ps_mode
+com.rainmaker.android.batterysaver.R$string: int psslpoff
+com.rainmaker.android.batterysaver.R$string: int psslpon
+com.rainmaker.android.batterysaver.R$string: int pw_set
+com.rainmaker.android.batterysaver.R$string: int pw_set2
+com.rainmaker.android.batterysaver.R$string: int pw_set3
+com.rainmaker.android.batterysaver.R$string: int refund_pol
+com.rainmaker.android.batterysaver.R$string: int setchg
+com.rainmaker.android.batterysaver.R$string: int setsave
+com.rainmaker.android.batterysaver.R$string: int settings
+com.rainmaker.android.batterysaver.R$string: int simple_mode
+com.rainmaker.android.batterysaver.R$string: int sleep
+com.rainmaker.android.batterysaver.R$string: int sleep_txt
+com.rainmaker.android.batterysaver.R$string: int slp_off
+com.rainmaker.android.batterysaver.R$string: int slp_on
+com.rainmaker.android.batterysaver.R$string: int timeselected
+com.rainmaker.android.batterysaver.R$string: int title_activity_main
+com.rainmaker.android.batterysaver.R$string: int unerr
+com.rainmaker.android.batterysaver.R$string: int upd_free
+com.rainmaker.android.batterysaver.R$string: int upsell_btn
+com.rainmaker.android.batterysaver.R$string: int upsell_copy
+com.rainmaker.android.batterysaver.R$string: int upsell_copy2
+com.rainmaker.android.batterysaver.R$string: int wait
+com.rainmaker.android.batterysaver.R$string: int welc
+com.rainmaker.android.batterysaver.R$string: int welcome
+com.rainmaker.android.batterysaver.R$string: int wid_upgr
+com.rainmaker.android.batterysaver.R$string: int wid_upgr_txt
+com.rainmaker.android.batterysaver.R$string: int wifi
+com.rainmaker.android.batterysaver.R$string: int wifioff
+com.rainmaker.android.batterysaver.R$string: int wifion
+com.rainmaker.android.batterysaver.R$style: int AppTheme
+com.rainmaker.android.batterysaver.R$xml: int batt_widget
+com.rainmaker.android.batterysaver.UpdateWidget
+com.rainmaker.android.batterysaver.UpdateWidget: UpdateWidget()
+com.rainmaker.android.batterysaver.Upsell
+com.rainmaker.android.batterysaver.Upsell: Upsell()
+com.rainmaker.android.batterysaver.WelcomeNotif
+com.rainmaker.android.batterysaver.WelcomeNotif: WelcomeNotif()
+com.rainmaker.android.batterysaver.WidgetDATAOnService
+com.rainmaker.android.batterysaver.WidgetDATAOnService: WidgetDATAOnService()
+com.rainmaker.android.batterysaver.WidgetModeChangeServiceOFF
+com.rainmaker.android.batterysaver.WidgetModeChangeServiceOFF: WidgetModeChangeServiceOFF()
+com.rainmaker.android.batterysaver.WidgetModeChangeServiceON
+com.rainmaker.android.batterysaver.WidgetModeChangeServiceON: WidgetModeChangeServiceON()
+com.rainmaker.android.batterysaver.WidgetWIFIOnService
+com.rainmaker.android.batterysaver.WidgetWIFIOnService: WidgetWIFIOnService()
+com.rainmaker.android.batterysaver.WifiOFFService
+com.rainmaker.android.batterysaver.WifiOFFService: WifiOFFService()
+com.rainmaker.android.batterysaver.WifiONService
+com.rainmaker.android.batterysaver.WifiONService: WifiONService()
+com.revmob.ads.banner.Banner: com.revmob.ads.RevMobAdsListener getAdsListener()
+com.revmob.ads.banner.Banner: void setAdsListener(com.revmob.ads.RevMobAdsListener)
+com.revmob.ads.fullscreen.FullscreenActivity
+com.revmob.ads.fullscreen.FullscreenActivity: FullscreenActivity()
+com.revmob.ads.internal.LoadError: com.revmob.ads.internal.LoadError[] values()
+com.revmob.ads.internal.LoadError: com.revmob.ads.internal.LoadError valueOf(java.lang.String)
+org.alexd.jsonrpc.JSONRPCParams$Versions: org.alexd.jsonrpc.JSONRPCParams$Versions[] values()
+org.alexd.jsonrpc.JSONRPCParams$Versions: org.alexd.jsonrpc.JSONRPCParams$Versions valueOf(java.lang.String)
+org.alexd.jsonrpc.JSONRPCThreadedClient$Description: org.alexd.jsonrpc.JSONRPCThreadedClient$Description[] values()
+org.alexd.jsonrpc.JSONRPCThreadedClient$Description: org.alexd.jsonrpc.JSONRPCThreadedClient$Description valueOf(java.lang.String)

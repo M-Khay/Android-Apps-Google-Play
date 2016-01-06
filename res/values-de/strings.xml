@@ -1,0 +1,71 @@
+<resources>
+
+    <string name="app_name">Optimal Battery Saver</string>
+    <string name="auto">Automatisch</string>
+    <string name="ps_mode">Optimal Battery Saver</string>
+    <string name="wid_upgr">Bitte aktualisieren Sie, um das Widget zu aktivieren</string>
+    <string name="wid_upgr_txt">Rüsten Sie jetzt nur für 99 Cent!</string>
+    <string name="data">DATA</string>
+    <string name="more_apps">Mehr coole apps!</string>
+     <string name="settings">Einstellungen</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="refund_pol">* Sie sind unter Google spielt Rückerstattung gedeckt. \n\nFür irgendeinem Grund, wenn es dir nicht gefällt die App, sind Sie frei, um es nach dem Google Play Store Erstattung Politik zu erstatten.</string>
+     <string name="timeselected">Das Zeitintervall</string>
+    <string name="power_saver">Stromsparmodus</string>
+    <string name="phn_set">Telefon-Einstellungen</string>
+    <string name="power_saver_txt">Stromsparmodus</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="pw_set">Wenn im Energiesparmodus, wird WIFI / Mobile Internet-und ausgeschaltet in Abständen, um Batterie und Bandbreite zu sparen. Sie könnten die Standardwerte, oder wählen Sie sie unter anpassen.</string>
+    <string name="pw_set2">Ändern Interval Einstellungen:</string>
+<string name="pw_set3">In Abständen von:</string>
+<string name="net_on">Denken Sie daran, unsere Desktop-Widget hinzufügen, so dass Sie WIFI, können die Daten kontrollieren und die Einstellung direkt von Ihrem Desktop! \ n \ Nturn Internet ON jedes Mal Telefon ist entsperrt?</string>
+<string name="min">Protokoll</string>
+<string name="slp_on">Stromsparmodus ist während Sleep-Modus. \ nWIFI / Data Netzwerk bleibt ausgeschaltet, wenn sich das Telefon im Ruhezustand befindet. \ n \ nWifi / Data aktiviert bei denen das Telefon in Betrieb ist, basierend auf obigen Einstellungen werden.</string>
+<string name="slp_off">Power Saver Modus ist OFF im Sleep-Modus. \ nWIFI / Data Netzwerk bei Bedarf eingeschaltet, wenn sich das Telefon im Ruhezustand befindet. \ n \ nWifi / Data aktiviert bei denen das Telefon in Betrieb ist.</string>
+<string name="cur_state">Aktueller Stand:</string>
+<string name="change_set">Einstellungen ändern</string>
+<string name="change_set2">Tippen Sie hier, um die Änderungen zu bestätigen</string>
+<string name="app_spec">Application Specific Settings</string>
+<string name="net">Netzwerk</string>
+<string name="upd_free">** Und Sie erhalten Updates auf Lebenszeit kostenlos **</string>
+<string name="upsell_btn">Laden Sie jetzt für nur 99 Cent!</string>
+<string name="upsell_copy">Eine Menge Zeit und Aufwand geht in den Aufbau apps. Um alle Funktionen nutzen, beachten Sie bitte ein Upgrade auf die PRO-Version (no ads) für nur 99 Cent! \ n \ nAlso erhalten einen super cool Desktop Widget auf on / off Wifi und Datennetze einzuschalten. \ nAlle zukünftige Upgrades sind kostenlos. </string>
+<string name="upsell_copy2">Die erweiterte Version bietet Ihnen den einfachen Zugang Desktop-Widget zusammen mit all den erweiterten Einstellungen sollten Sie den Akku noch länger zu machen.</string>
+<string name="feat_pro">Features in der Vollversion:</string>
+<string name="confirm">Einstellungen bestätigen</string>
+<string name="notif">Benachrichtigungen</string>
+<string name="cust_apps">Passen Application Settings</string>
+<string name="adv_set">Erweiterte Einstellungen</string>
+<string name="adv_set_txt">Wenn Sie möchten, um die Standard-Energiesparmodus zu ändern, tippen Sie auf den Button unten.</string>
+<string name="sleep">Sleep-Modus-Einstellungen</string>
+<string name="sleep_txt">Die Wahl JA (das ist Energiesparmodus ON) unten zu halten Internet oder WIFI ausgeschaltet, während das Telefon im Ruhezustand befindet.</string>
+<string name="wifi">WIFI</string>
+<string name="simple_mode">Zurück zur einfachen Modus</string>
+<string name="welcome">Diese App ist so konzipiert, um die Batterie-Ressourcen durch die Regelung Ihrer WIFI und Mobile Data-Netzwerk zu sparen. \ n \ n Sie können Ihre Batterie viel länger und auch Geld sparen auf jedem mobilen Netzwerk, das Sie zu verbinden. \ n \ nAlle Sie basiert auf den Energiesparmodus schalten, indem Sie auf den Button oben tun. \ n
+
+</string>
+<string name="mob_net">Mobile Internet</string>
+<string name="app_set">Tippen Sie auf die Schaltfläche unten, um anwendungsbezogene Einstellungen anpassen. \ nSelecting eine Anwendung aus der Liste Internet ON, während Sie diese Anwendung ist im aktiven Einsatz zu halten. \ n \ neg. Wenn Sie Facebook aus der Liste ausgewählt haben, werden WIFI weiter zu laufen, wenn Facebook ist die aktive (sichtbar) Anwendung.
+</string>
+<string name="app_set_btn">Klicken Sie hier, um App-Einstellungen ändern</string>
+<string name="cst">Erweiterte Einstellungen</string>
+<string name="net_txt">Wählen Sie, welches Netzwerk Sie Stromsparmodus in. Besonders nützlich zu verwenden, wenn Sie nicht innerhalb von WIFI-Bereich und wollen mobile Daten senken \ n \ nHinweis wollen:.. Automatikbetrieb wird zunächst auf die verfügbaren WLAN-Netzwerk verbinden \ n \ nWenn WIFI nicht verfügbar ist, dann mobile Daten zu verbinden. \ n \ nWenn Sie nicht mobile Daten, wählen Sie bitte WIFI nur.</string>
+
+<string name="wifion">Wifi ON</string>
+<string name="wifioff">Wifi Off</string>
+<string name="poweroff">Power Saver Off</string>
+<string name="poweron">Power Saver ON</string>
+<string name="dataoff">Data Off</string>
+<string name="dataon">Data On</string>
+<string name="appnotfound">Anwendung nicht gefunden</string>
+<string name="wait">Bitte warten Sie .. Einrichten der Akku-Sparmodus</string>
+<string name="psslpon">Power Saver Modus auf im Schlaf-Modus</string>
+<string name="psslpoff">Stromsparmodus während Sleep-Modus</string>
+<string name="nonet">Netzwerk nicht erreichbar</string>
+<string name="nonotif">Keine Meldungen gefunden</string>
+<string name="unerr">Unknown Error</string>
+<string name="setsave">Einstellungen gespeichert</string>
+<string name="welc">willkommen</string>
+<string name="setchg">Einstellungen erfolgreich geändert</string>
+
+</resources>

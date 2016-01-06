@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rainmaker.android.batterysaver.ap"
+    android:versionCode="25"
+    android:versionName="3.1" >
+
+    <permission
+        android:name="com.rainmaker.android.batterysaver.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.rainmaker.android.batterysaver.permission.C2D_MESSAGE" />
+
+    <!-- App receives GCM messages. -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <!-- GCM requires a Google account. -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <uses-sdk
+        android:maxSdkVersion="19"
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<uses-permission android:name="android.permission.GET_ACCOUNTS" />
+<uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+
+    
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <!-- UNIVERSAL SDK INTEGRATION  -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="4030500" />
+        <meta-data
+            android:name="com.xtcxorfr.athvsupf175270.APPID"
+            android:value="202445" />
+        <meta-data
+            android:name="com.xtcxorfr.athvsupf175270.APIKEY"
+            android:value="android*1391169119175295886" />
+
+        <activity
+            android:name="com.xtcxorfr.athvsupf175270.AdActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity android:name="com.xtcxorfr.athvsupf175270.BrowserActivity"
+android:configChanges="orientation|screenSize" />
+<activity android:name="com.xtcxorfr.athvsupf175270.PlayActivity"
+            android:configChanges="orientation|screenSize" android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+</activity> 
+<service android:name="com.xtcxorfr.athvsupf175270.AdService" android:exported="false" />
+<receiver android:name="com.xtcxorfr.athvsupf175270.BootReceiver" android:exported="false" >
+  <intent-filter>
+     <action android:name="android.intent.action.BOOT_COMPLETED" />
+     <category android:name="android.intent.category.HOME" />
+  </intent-filter>
+</receiver>
+        <!--  UNIVERSAL SDK INTEGRATION ENDS
+         -->
+<!-- 
+        Airpush Bundle 2 Integration
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="4030500" />
+        <meta-data
+            android:name="com.yrkfgo.assxqx4.APPID"
+            android:value="202445" />
+        <meta-data
+            android:name="com.yrkfgo.assxqx4.APIKEY"
+            android:value="android*1391169119175295886" />
+
+        <activity
+            android:name="com.yrkfgo.assxqx4.AdActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.yrkfgo.assxqx4.BrowserActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.yrkfgo.assxqx4.PlayActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+
+        <service
+            android:name="com.yrkfgo.assxqx4.UbService"
+            android:exported="false" >
+        </service>
+        Airpus add integration ENDS !
+
+ -->
+        <!-- App Tacker Sdk Integration -->
+
+        <receiver
+            android:name="com.mobileapptracker.Tracker"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <!-- App Tacker Sdk Integration ENDS -->
+
+        <service
+            android:name="com.yrkfgo.assxqx4.AdService"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.yrkfgo.assxqx4.BootReceiver"
+            android:exported="false" >
+            <intent-filter android:priority="-1000" >
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.rainmaker.android.batterysaver.ap.AllBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="com.rainmaker.android.batterysaver.ALARM2" />
+                <action android:name="com.rainmaker.android.batterysaver.ALARM1" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.google.android.gcm.GCMBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.rainmaker.android.batterysaver" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.rainmaker.android.batterysaver.ap.GCMIntentService" />
+        <service android:name="com.rainmaker.android.batterysaver.ap.WifiONService" />
+        <service android:name="com.rainmaker.android.batterysaver.ap.WifiOFFService" />
+        <service android:name="com.rainmaker.android.batterysaver.ap.AlarmCreator" />
+        <service android:name="com.rainmaker.android.batterysaver.ap.NetworkScreenOnHelper" />
+        <service android:name="com.rainmaker.android.batterysaver.ap.WidgetModeChangeServiceON" />
+        <service android:name="com.rainmaker.android.batterysaver.ap.WidgetModeChangeServiceOFF" />
+        <service android:name="com.rainmaker.android.batterysaver.ap.WidgetWIFIOnService" />
+        <service android:name="com.rainmaker.android.batterysaver.ap.WidgetDATAOnService" />
+        <service android:name="com.rainmaker.android.batterysaver.ap.UpdateWidget" />
+
+        <receiver
+            android:name="com.rainmaker.android.batterysaver.ap.BattWidgetProvider"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="android.intent.action.CONFIGURATION_CHANGED" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/batt_widget" />
+        </receiver>
+
+        <service android:name="com.rainmaker.android.batterysaver.ap.BattWidgetProvider$UpdateService" />
+
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.Preferences"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.WelcomeNotif"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.AppCustomize"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.Upsell"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.AppManager"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.WidgetActions"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.Notifications"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.NotifView"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.BatterySaver"
+            android:configChanges="orientation|keyboardHidden"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.rainmaker.android.batterysaver.ap.SplashActivity"
+            android:label="@string/ps_mode" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

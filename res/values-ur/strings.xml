@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">زیادہ سے زیادہ بیٹری محافظ</string>
+    <string name="ps_mode">زیادہ سے زیادہ بیٹری محافظ</string>
+    <string name="wid_upgr">جٹ فعال کرنے  کے لیے براہ مہربانی اپ گریڈ کریں</string>
+    <string name="wid_upgr_txt">صرف 99 سینٹس میں اپ گریڈ کریں!</string>
+    <string name="data">ڈیٹا</string>
+    <string name="auto">خودکار</string>
+    <string name="more_apps">مزید دلچسپ ایپس!</string>
+     <string name="settings">سیٹنگز</string>
+    <string name="menu_settings">سیٹنگز</string>
+    <string name="refund_pol">*آپ گوگل پلے کی ری فنڈ پالیسی کے تحت ضمانت حاصل ہے۔. کسی بھی وجہ سے، اگر آپ کو ایپ پسند نہ آئی ہو تو آپ گوگل پلے سے ری فنڈ پالیسی کے تحت اسے واپس کر سکتے ہیں۔</string>
+     <string name="timeselected">دورانیہ سیٹ کریں</string>
+    <string name="power_saver">توانائی بچاؤ موڈ</string>
+    <string name="phn_set">فون سیٹنگز</string>
+    <string name="power_saver_txt">توانائی بچاؤ موڈ</string>
+    <string name="title_activity_main">بنیادی سرگرمی</string>
+    <string name="pw_set">جب توانائی بچاؤ موڈ آن ہو، تو وائی فائی/ موبائل ڈیٹا وقفے وقفے سے آن اور آف ہوتا رہتا ہے تاکہ بیٹری اور بینڈ وتھ کی بچت ہو سکے۔ آپ ڈیفالٹ ویلیو استعمال کر سکتے ہیں یا نیچے جا کر اپنے حساب سے اس میں تبدیلی کر سکتے ہیں۔</string>
+    <string name="pw_set2">دورانیے کی سیٹنگیں تبدیل کریں:</string>
+<string name="pw_set3">درج ذیل دورانیوں کے حساب سے:</string>
+<string name="net_on">ہماری ڈیسک ٹاپ وجٹ شامل کرنا نہ بھولیں تاکہ آپ اپنے ڈیسک ٹاپ سے ہی وائی فائی، ڈیٹا اور سیٹنگز کنٹول کر سکیں ہر مرتبہ فون ان لاک ہوتے ہی انٹرنیٹ آن کریں؟</string>
+<string name="min">منٹ</string>
+<string name="slp_on">سلیپ موڈ کے دوران توانائی بچاؤ موڈ آن ہے۔ جب فون سلیپ موڈ میں ہو تو وائی فائی/ڈیٹا نیٹ ورک بند رہے گا۔. مندرجہ بالا سیتنگز کی بنیاد پر، فون کے زیر استعمال ہونے کی صورت میں وائی فائی/ ڈیٹا فعال ہوجائے گا۔.</string>
+<string name="slp_off">توانائی بچاؤ موڈ سلیپ موڈ کے دوران بند ہوتا ہے۔ \nوائی فائی/ڈیٹا نیٹ ورک، سلیپ موڈ کے دوران وقفے وقفے سے آن ہوگا جب فون زیر استعمال ہو تو وائی فائی/ڈیٹا آن رہے گا۔.</string>
+<string name="cur_state">موجود کیفیت:</string>
+<string name="change_set">سیٹنگز تبدیل کریں</string>
+<string name="change_set2">تبدیلیوں کی تصدیق کے لیے یہاں ٹیپ کریں</string>
+<string name="app_spec">مخصوص ایپ سیٹنگز</string>
+<string name="net">نیٹ ورک</string>
+<string name="upd_free"> ** اور زندگی بھر کی اپ ڈیٹس مفت حاصل کریں ** </string>
+<string name="upsell_btn">اب صرف 99 سینٹس میں ڈاؤن لوڈ کریں!</string>
+<string name="upsell_copy">ایپس بنانے میں بہت وقت اور کوشش صرف ہوتی ہے۔ تمام خصوصیات کا فائدہ اٹھانے کے لیے، براہ مہربانی پرو ورژن (کو۴ی اشتہار نہیں) پر اپ ڈیٹ کرنے کے لیے غور کریں </string>
+<string name="upsell_copy2">ایڈوانسڈ ورژن آپ کو ایڈوانسڈ سیٹنگز کے ساتھ آسان رسائی والی ڈیسک ٹاپ وجٹ دیتا ہے تاکہ آپ بیٹری کے دورانیے میں مزید اضافہ کر سکیں۔.</string>
+<string name="feat_pro">مکمل ورژن میں موجود خصوصیات::</string>
+<string name="confirm">سیٹنگز کی تصیق کریں</string>
+<string name="notif">اطلاعات</string>
+<string name="cust_apps">ایپلیکیشن سیٹنگز میں ذاتی تبدیلیاں کریں</string>
+<string name="adv_set">ایڈوانسڈ سیٹنگز</string>
+<string name="adv_set_txt">گر آپ توانائی بچاؤ کی ڈیفالٹ سیٹنگز تبدیل کرنا چاہتے ہیں تو نیچے موجود بٹن پر ٹیپ کریں۔.</string>
+<string name="sleep">سلیپ موڈ سیٹنگز</string>
+<string name="sleep_txt">یچے موجود جی ہاں (اس کا مطلب توانائی بچاؤ آن ہے) منتخب کرنے سے انٹرنیٹ/وائی فائی، سلیپ موڈ کے دوران بند رہے گا۔.</string>
+<string name="wifi">وائی فائی</string>
+<string name="simple_mode">سادہ موڈ پر واپس</string>
+<string name="welcome">یہ ایپ آپ کے وائی فائی اور موبائل ڈیٹا کے استعمال کو منظم کرتے ہوئے بیٹری کی توانائی محفوظ کرنے کے لیے بنائی گئی ہے پ کی بیٹری اب زیادہ دیر تک چل سکتی ہے اور آپ منسلک ہونے والے کسی بھی موبائل نیٹ ورک پر پیسے بھی بچا سکتے ہیں پ کو صرف اوپر موجود بٹن پر کلک کر کے توانائی بچاؤ موڈ آن کرنا ہوگا۔
+</string>
+<string name="mob_net">موبائل انٹرنیٹ</string>
+<string name="app_set">ایپ سے متعلق سیٹنگز میں تبدیلی کے لیے نیچے موجود بٹن پر ٹیپ کریں فہرست سے ایپلیکیشن منتخب کرنے کی صورت میں انٹرنیٹ اس دوران آن رہے گا جب ایپلیکیشن زیر استعمال ہو۔ مثلاً۔ اگر آپ نے فہرست سے فیس بک منتخب کیا ہے، تو وائی فائی اس وقت تک آن رہے گا جب تک فیس بک فعال (نظر آرہی ہو) ہے۔</string>
+<string name="app_set_btn">ایپ سیٹنگز تبدیل کرنے کے لیے یہاں کلک کریں</string>
+<string name="cst">ایڈوانسڈ سیٹنگز</string>
+<string name="net_txt">منتخب کریں کہ آپ کس نیٹ ورک پر توانائی بچاؤ موڈ استعمال کرنا چاہتے ہیں۔ اس وقت خاص طور پر کارآمد ہوتا ہے جب وائی فائی آپ کی پہنچ میں نہ ہو اور آپ موبائل ڈیٹا کے اخراجات کم سے کم رکھنا چاہتے ہوں۔ نوٹ: خودکار موڈ سب سے پہلے دستیاب وائی فائی نیٹ ورک سے منسلک ہوگا۔.گر وائی فائی دستیاب نہ ہو تو اس صورت میں موبائل ڈیٹا سے منسلک ہوگا۔اگر آپ موبائل ڈیٹا استعمال نہ کرتے ہوں تو براہ مہربانی صرف وائی فائی منتخب کریں۔.</string>
+
+<string name="wifion">وائی فائی آن</string>
+<string name="wifioff">وائی فائی آف</string>
+<string name="poweroff">توانائی بچاؤ آف</string>
+<string name="poweron">وانائی بچاؤ آن</string>
+<string name="dataoff">ڈیٹا آف</string>
+<string name="dataon">ڈیٹا آن</string>
+<string name="appnotfound">ایپلیکیشن نہیں ملی</string>
+<string name="wait">نراہ مہربانی انتظار کریں۔ ۔ بیٹری سیور کا آغاز کر رہا ہے</string>
+<string name="psslpon">سلیپ موڈ کے دوران توانائی بچاؤ موڈ آن</string>
+<string name="psslpoff">سلیپ موڈ کے دوران توانائی بچاؤ موڈ آف</string>
+<string name="nonet">نیٹ ورک قابل رسائی نہیں</string>
+<string name="nonotif">کوئی اطلاعات موجود نہیں</string>
+<string name="unerr">امعلوم نقص</string>
+<string name="setsave">سیٹنگز محفوظ ہو گئیں</string>
+<string name="welc">خوش آمدید</string>
+<string name="setchg">سیٹنگز کامیابی سے تبدیل ہو گئیں</string>
+
+</resources>
+

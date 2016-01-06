@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mystyles" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="11dp"
+        android:text="@string/ps_mode"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        android:id="@+id/mode_toggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="8dp"
+        android:contentDescription="modeonoff"
+        android:src="@drawable/mode_off" />
+
+    <ImageView
+        android:id="@+id/wifi_toggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/mode_toggle"
+        android:layout_marginLeft="11dp"
+        android:layout_toRightOf="@+id/mode_toggle"
+        android:layout_marginBottom="8dp"
+        android:contentDescription="wifionoff"
+        android:src="@drawable/wifi_off" />
+
+    <ImageView
+        android:id="@+id/data_toggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/wifi_toggle"
+        android:layout_centerHorizontal="true"
+        android:layout_toRightOf="@id/wifi_toggle"
+        android:layout_marginLeft="11dp"
+        android:layout_marginBottom="8dp"
+        android:contentDescription="dataonoff"
+        android:src="@drawable/data_off" />
+
+    <ImageView
+        android:id="@+id/settings_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/data_toggle"
+        android:layout_marginLeft="11dp"
+        android:layout_toRightOf="@+id/data_toggle"
+        android:layout_marginBottom="8dp"
+        android:contentDescription="settings"
+        android:src="@drawable/settings" />
+
+    <ImageView
+        android:id="@+id/refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/settings_btn"
+        android:layout_marginLeft="11dp"
+        android:layout_marginBottom="8dp"
+        android:contentDescription="refresh"
+        android:layout_toRightOf="@+id/settings_btn"
+        android:src="@drawable/refresh_rotate" />
+
+</RelativeLayout>

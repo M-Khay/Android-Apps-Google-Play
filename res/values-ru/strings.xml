@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Optimal Battery Saver</string>
+    <string name="ps_mode">Optimal Battery Saver</string>
+    <string name="wid_upgr">Чтобы использовать виджет, обновите приложение до полной версии</string>
+    <string name="wid_upgr_txt">Установите полную версию всего лишь за 99 центов!</string>
+    <string name="data">ДАННЫЕ</string>
+    <string name="auto">Автоматически</string>
+    <string name="more_apps">Больше полезных приложений!</string>
+     <string name="settings">Настройки</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="refund_pol">*На приложение распространяется действие политики возврата денежных средств Google Play..</string>
+     <string name="timeselected">Задать интервал</string>
+    <string name="power_saver">Режим энергосбережения</string>
+    <string name="phn_set">Настройки телефона</string>
+    <string name="power_saver_txt">Режим энергосбережения</string>
+    <string name="title_activity_main">Основные действия</string>
+    <string name="pw_set">При включенном режиме энергосбережения WiFi/Мобильный Интернет будут периодически включаться и выключаться для экономии заряда аккумулятора и трафика. Вы можете оставить значения по умолчанию, либо задать собственные настройки..</string>
+    <string name="pw_set2">Изменить интервал:</string>
+<string name="pw_set3">Через интервалы:</string>
+<string name="net_on">Не забудьте установить наш виджет, который позволяет управлять передачей данных через WIFI и мобильные сети, а также настраиваться параметры прямо с рабочего стола телефона!</string>
+<string name="min">минут</string>
+<string name="slp_on">Режим энергосбережения включен в спящем режиме. WIFI/мобильные сети выключены, когда телефон находится в спящем режиме. Если телефон используется, передача данных по Wifi/мобильным сетям будет включена в соответствии с заданными параметрами.</string>
+<string name="slp_off">Режим энергосбережения выключен в спящем режиме. \nПередача данных по WIFI/мобильным сетям иногда будет включаться в спящем режиме..</string>
+<string name="cur_state">Текущее состояние:</string>
+<string name="change_set">Изменить настройки</string>
+<string name="change_set2">Нажмите здесь, чтобы подтвердить изменения</string>
+<string name="app_spec">Специальные настройки приложения</string>
+<string name="net">Сеть</string>
+<string name="upd_free">** И получайте бесплатные обновления всю жизнь **</string>
+<string name="upsell_btn">Скачать сейчас всего лишь за 99 центов!</string>
+<string name="upsell_copy">На создание приложения было потрачено много времени и усилий. Чтобы использовать все функции приложения, обновитесь до версии PRO (без рекламы) всего лишь за 99 центов! \n\nКроме этого, вы получите отличный виджет, позволяющий включать и выключать Wifi и мобильный интернет. \nВсе последующие обновления будут бесплатными. </string>
+<string name="upsell_copy2">В расширенной версии вы получаете виджет для рабочего стола, а также расширенные настройки, которые позволят продлить время работы от аккумулятора на еще большее время.</string>
+<string name="feat_pro">Функции в полной версии:</string>
+<string name="confirm">Настройки подтверждения</string>
+<string name="notif">Уведомления</string>
+<string name="cust_apps">Пользовательские настройки приложения</string>
+<string name="adv_set">Расширенные настройки</string>
+<string name="adv_set_txt">Если хотите изменить настройки энергосбережения по умолчанию, нажмите на расположенную ниже кнопку.</string>
+<string name="sleep">Параметры спящего режима</string>
+<string name="sleep_txt">Если выбрать ДА (т.е. включить приложение power saver), то при переходе в спящий режим Интернет/WIFI будут отключаться.</string>
+<string name="wifi">WIFI</string>
+<string name="simple_mode">Вернуться в основной режим</string>
+<string name="welcome">Это приложение позволяет экономить ресурсы аккумулятора путем настройки использования Wi-Fi и мобильного интернета.Аккумулятор сможет работать ГОРАЗДО дольше, а вы сэкономите деньги на подключении к мобильным сетям.Вам нужно просто включить приложение power saver, нажав на расположенную выше кнопку.
+</string>
+<string name="mob_net">Мобильный Интернет</string>
+<string name="app_set">Нажмите на расположенную ниже кнопку, чтобы выполнить настройку приложения. Выберите приложения из списка. Интернет будет включен до тех пор, пока активно данное приложение.Например: Если вы выбрали Facebook, WiFi будет работать до тех пор, пока Facebook будет активным (видимым) приложением..</string>
+<string name="app_set_btn">Нажмите здесь, чтобы изменить настройки приложения</string>
+<string name="cst">Расширенные настройки</string>
+<string name="net_txt">Выберите, в какой сети вы хотите использовать режим энергосбережения. Этот вариант особенно полезен, если вы находитесь вне зоны покрытия WIFI и хотите отключить передачу данных по мобильным сетям, что сэкономить деньги.\n\nNote: Automatic mode will first connect to the available WIFI network.Если сеть WIFI недоступна, то устройство подключается к мобильной сети передачи данных.Если вы не пользуетесь мобильным интернетом, нужно выбрать только WIFI..</string>
+
+<string name="wifion">Wifi вкл</string>
+<string name="wifioff">Wifi выкл</string>
+<string name="poweroff">Power Saver выкл</string>
+<string name="poweron">Power Saver вкл</string>
+<string name="dataoff">Передача данных выкл</string>
+<string name="dataon">Передача данных вкл</string>
+<string name="appnotfound">Приложение не найдено</string>
+<string name="wait">Подождите, пожалуйста.. выполняется настройка приложения battery saver</string>
+<string name="psslpon">Режим энергосбережения ВКЛ в спящем режиме</string>
+<string name="psslpoff">Режим энергосбережения ВЫКЛ в спящем режиме</string>
+<string name="nonet">Сеть недоступна</string>
+<string name="nonotif">Уведомления не найдены</string>
+<string name="unerr">Неизвестная ошибка</string>
+<string name="setsave">Настройки сохранены</string>
+<string name="welc">Добро пожаловать</string>
+<string name="setchg">Настройки успешно изменены</string>
+
+</resources>
+
+

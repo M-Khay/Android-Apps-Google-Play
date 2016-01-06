@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 
+        android:id="@+id/Default"
+        android:title="DEFAULT"/>
+    <item
+		android:id="@+id/time1"
+		android:title="1 minute every 3 minutes"/>
+	
+	<item
+		android:id="@+id/time2"
+		android:title="1 minute every 5 minutes"/>
+
+	<item 
+	    android:id="@+id/time3"
+		android:title="1 minute every 10 minutes"/>
+	
+	<item 
+	    android:id="@+id/time4"
+		android:title="1 minute every 15 minutes"/>
+	
+	<item 
+	    android:id="@+id/time5"
+		android:title="1 minute every 30 minutes"/>
+	
+	<item 
+	    android:id="@+id/time6"
+		android:title="2 minutes every 10 minutes"/>
+	
+	<item 
+	    android:id="@+id/time7"
+		android:title="2 minutes every 15 minutes"/>
+	
+	<item 
+	    android:id="@+id/time8"
+		android:title="2 minutes every 30 minutes"/>
+
+</menu>

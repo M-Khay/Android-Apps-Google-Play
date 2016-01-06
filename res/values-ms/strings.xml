@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Optimal Battery Saver</string>
+    <string name="ps_mode">Optimal Battery Saver</string>
+    <string name="wid_upgr">Sila naik taraf untuk mendayakan widget ini</string>
+    <string name="wid_upgr_txt">Naik taraf sekarang hanya pada harga 99 cent sahaja!</string>
+    <string name="data">DATA</string>
+    <string name="auto">Automatik</string>
+    <string name="more_apps">Lebih banyak apl hebat!</string>
+     <string name="settings">Tetapan</string>
+    <string name="menu_settings">Tetapan</string>
+    <string name="refund_pol">*Anda dilindungi oleh dasar pembayaran balik Google Play\. Atas APA JUA sebab, jika anda tidak menyukai apl ini, anda bebas untuk mendapatkan wang anda kembali menurut dasar pembayaran balik Google Play Store.</string>
+     <string name="timeselected">Tetapkan Selang Masa</string>
+    <string name="power_saver">Mod PenjimatKuasa</string>
+    <string name="phn_set">Tetapan Telefon</string>
+    <string name="power_saver_txt">Mod Penjimat Kuasa</string>
+    <string name="title_activity_main">AktivitiUtama</string>
+    <string name="pw_set">Apabila dalam mod penjimat kuasa, Internet WIFI/Mudah Alih dihidupkan dan dimatikan pada secara berselang-seli pada selang masa yang ditetapkan untuk menjimatkan bateri dan lebar jalur. Anda boleh membiarkan nilai lalai atau memilih untuk menyesuaikannya di bawah..</string>
+    <string name="pw_set2">Tukar Tetapan Selang Masa:</string>
+<string name="pw_set3">Pada selang masa::</string>
+<string name="net_on">Jangan lupa untuk menambah widget desktop supaya anda boleh mengawal WIFI, DATA dan tetapan terus daripada desktop anda!</string>
+<string name="min">minit</string>
+<string name="slp_on">Mod Penjimat Kuasa DIHIDUPKAN sewaktu mod tidur. Rangkaian WIFI/Data akan kekal dalam keadaan DIMATIKAN apabila telefon dalam mod tidur. Wifi/Data akan didayakan apabila telefon digunakan, berdasarkan tetapan di atas.</string>
+<string name="slp_off">Mod Penjimat Kuasa DIMATIKAN sewaktu mod tidur. \nrangkaian WIFI/Data kadangkala akan DIHIDUPKAN apabila telefon dalam mod tidur</string>
+<string name="cur_state">Keadaan Semasa:</string>
+<string name="change_set">Tukar Tetapan</string>
+<string name="change_set2">Ketik di sini untuk mengesahkan perubahan</string>
+<string name="app_spec">Tetapan Yang Khusus Mengikut Aplikasi</string>
+<string name="net">Rangkaian</string>
+<string name="upd_free">** Dan dapatkan kemas kini sepanjang hayat secara percuma **</string>
+<string name="upsell_btn">Muat turun sekarang cuma pada harga 99 cent sahaja!</string>
+<string name="upsell_copy">Banyak masa dan usaha dicurahkan dalam membina apl. Untuk mendapat capaian kepada semua ciri, sila pertimbangkan untuk menaik taraf kepada versi PRO (tanpa iklan) cuma pada harga 99 cent sahaja! \n\nDi samping itu, dapatkan juga widget desktop yang sangat hebat untuk menghidupkan/mematikan rangkaian Wifi dan Data. \nSemua naik taraf pada masa hadapan adalah percuma. </string>
+<string name="upsell_copy2">Versi lanjut ini memberi anda widget desktop yang mudah dicapai berserta semua tetapan lanjut untuk memastikan bateri anda tahan lebih lama lagi..</string>
+<string name="feat_pro">Ciri-ciri dalam versi penuh:</string>
+<string name="confirm">Sahkan Tetapan</string>
+<string name="notif">Pemberitahuan</string>
+<string name="cust_apps">Sesuaikan Tetapan Aplikasi</string>
+<string name="adv_set">Tetapan Lanjut</string>
+<string name="adv_set_txt">Jika anda ingin menukar tetapan lalai bagi penjimatan kuasa, ketik butang di bawah.</string>
+<string name="sleep">Tetapan Mod Tidur</string>
+<string name="sleep_txt">Memilih YA (iaitu\ penjimat kuasa HIDUP) di bawah akan memastikan Internet/WIFI DIMATIKAN sementara telefon anda dalam mod tidur.</string>
+<string name="wifi">WIFI</string>
+<string name="simple_mode">Kembali ke Mod Ringkas</string>
+<string name="welcome">Apl ini direka untuk menjimatkan sumber bateri dengan mengawal penggunaan rangkaian WIFI dan Data Mudah Alih anda. Anda boleh membuat bateri anda tahan JAUH lebih lama dan juga menjimatkan wang pada sebarang rangkaian mudah alih yang anda bersambung padanya Apa yang anda perlu buat hanyalah MENGHIDUPKAN penjimat kuasa dengan mengklik pada butang di atas.
+</string>
+<string name="mob_net">Internet Mudah Alih</string>
+<string name="app_set">Ketik pada butang di bawah untuk menyesuaikan tetapan yang berkaitan dengan aplikasi.Memilih aplikasi daripada senarai ini akan memastikan Internet DIHIDUPKAN sementara aplikasi tersebut digunakan secara aktif. Cth. Jika anda telah memilih Facebook daripada senarai ini, WIFI akan terus dijalankan apabila Facebook adalah aplikasi yang aktif (boleh dilihat).</string>
+<string name="app_set_btn">Klik di sini untuk menukar tetapan apl.</string>
+<string name="cst">Tetapan Lanjut</string>
+<string name="net_txt">Pilih pada rangkaian mana anda mahu guna  Mod Penjimat Kuasa ini. Berguna khususnya apabila anda tidak berada dalam julat WIFI dan mahu mengurangkan kos data mudah alih anda.Perhatian: Mod automatik akan pada mulanya bersambung ke rangkaian WIFI yang sedia ada.\Jika tiada WIFI, ia kemudiannya akan bersambung ke data mudah alih.</string>
+
+<string name="wifion">Wifi DIHIDUPKAN</string>
+<string name="wifioff">Wifi Dimatikan</string>
+<string name="poweroff">Mod Penjimat Kuasa DIMATIKAN</string>
+<string name="poweron">Mod Penjimat Kuasa DIHIDUPKAN</string>
+<string name="dataoff">Data Dimatikan</string>
+<string name="dataon">Data Dihidupkan</string>
+<string name="appnotfound">Aplikasi Tidak Ditemui</string>
+<string name="wait">Sila tunggu.. sedang menyediakan penjimat bateri</string>
+<string name="psslpon">Mod Penjimat Kuasa DIHIDUPKAN sewaktu mod tidur</string>
+<string name="psslpoff">Mod Penjimat Kuasa DIMATIKAN sewaktu mod tidur</string>
+<string name="nonet">Rangkaian Tidak Dapat Dicapai</string>
+<string name="nonotif">Tiada pemberitahuan ditemui</string>
+<string name="unerr">Ralat Tidak Diketahui</string>
+<string name="setsave">Tetapan Disimpan</string>
+<string name="welc">Selamat Datang</string>
+<string name="setchg">Tetapan Berjaya Ditukar</string>
+
+</resources>

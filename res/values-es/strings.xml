@@ -1,0 +1,72 @@
+<resources>
+
+    <string name="app_name">Óptimo ahorro de batería</string>
+    <string name="auto">Automático</string>
+    <string name="ps_mode">Óptimo ahorro de batería</string>
+    <string name="wid_upgr">Por favor actualice a permitir el widget</string>
+    <string name="wid_upgr_txt">Actualiza ahora sólo por 99 centavos!</string>
+    <string name="data">DATOS</string>
+    <string name="more_apps">Aplicaciones más cool!</string>
+     <string name="settings">Configuración</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="refund_pol">* Usted está cubierto por la póliza de reembolso Google Play. \n\nPara cualquier razón, si no te gusta la aplicación, usted es libre de reembolso según la política de devolución de Google Play Store.</string>
+     <string name="timeselected">Ajuste el intervalo de tiempo</string>
+    <string name="power_saver">Modo Ahorro de energía</string>
+    <string name="phn_set">Configuración del teléfono</string>
+    <string name="power_saver_txt">Modo Ahorro de energía</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="pw_set">Cuando está en modo de ahorro de energía, WIFI / Internet móvil se enciende y se apaga a intervalos con el fin de ahorrar batería y ancho de banda. Usted puede dejar los valores por defecto o elegir para personalizarlo a continuación.</string>
+    <string name="pw_set2">Cambiar la configuración del intervalo:</string>
+<string name="pw_set3">A intervalos de:</string>
+<string name="net_on">Recuerde agregar nuestro widget de escritorio para que pueda controlar los datos de WIFI, y el establecimiento de la derecha de su escritorio! \ n \ Internet nTurn en cada teléfono está desbloqueado tiempo?</string>
+<string name="min">acta</string>
+<string name="slp_on">Modo de ahorro de energía está activada durante el modo de reposo. \ nWIFI / Red de datos permanecerá apagado cuando el teléfono está en modo de suspensión. \ n \ nWifi / Datos estará habilitado el teléfono está en uso, dependiendo de los parámetros anteriores.
+</string>
+<string name="slp_off">Modo de ahorro de energía está apagada durante el modo de reposo. \ nWIFI / Red de datos de vez en cuando se enciende cuando el teléfono está en modo de suspensión. \ n \ nWifi / datos se puede activar con el teléfono está en uso.</string>
+<string name="cur_state">Estado actual:</string>
+<string name="change_set">Cambiar la configuración del</string>
+<string name="change_set2">Pulse aquí para confirmar los cambios</string>
+<string name="app_spec">Configuración de aplicaciones específicas</string>
+<string name="net">red</string>
+<string name="upd_free">** Y obtener actualizaciones de por vida ** libres para</string>
+<string name="upsell_btn">Descargar ahora por sólo 99 centavos!</string>
+<string name="upsell_copy">Una gran cantidad de tiempo y esfuerzo va en la creación de aplicaciones. Para hacer uso de todas las funciones, por favor, considere actualizar a la versión PRO (no ads) por sólo 99 centavos! \ n \ n También conseguir un widget de escritorio súper fría para activar / desactivar las redes Wifi y datos. \ nTodos futuras actualizaciones son gratuitas. </string>
+<string name="upsell_copy2">La versión avanzada le da el widget de escritorio de fácil acceso junto con todos los ajustes avanzados para que su batería dure más tiempo.</string>
+<string name="feat_pro">Características de la versión completa:</string>
+<string name="confirm">Confirmar parámetros</string>
+<string name="notif">Notificaciones</string>
+<string name="cust_apps">Personalizar la configuración de aplicaciones</string>
+<string name="adv_set">Configuración avanzada</string>
+<string name="adv_set_txt">Si desea cambiar la configuración de ahorro de energía predeterminadas, pulse en el botón de abajo.</string>
+<string name="sleep">Ajustes del modo Sleep</string>
+<string name="sleep_txt">Elegir SI (que es ahorro de energía ON) se mantendrá por debajo de Internet o WiFi apagado mientras el teléfono está en modo de suspensión.</string>
+<string name="wifi">WIFI</string>
+<string name="simple_mode">Volver al modo simple</string>
+<string name="welcome">Esta aplicación está diseñada para ahorrar recursos de la batería mediante el control de su uso de datos de la red Wi-Fi y móviles. \ n \ n Puede que la batería dure mucho más tiempo y también ahorrar dinero en cualquier red móvil que se conecta. \ n \ nTodos que tiene que hacer es activar el ahorro de energía haciendo clic en el botón de arriba. \ n
+
+</string>
+<string name="mob_net">Internet móvil</string>
+<string name="app_set">Pulse sobre el botón de abajo para modificar la configuración de aplicación relacionadas. \ nSelecting una aplicación de la lista se mantendrá encendido mientras que Internet es la aplicación en uso. \ n \ neg. Si ha seleccionado el Facebook de la lista, WIFI seguirá funcionando cuando Facebook es el activo (visible) de la aplicación.
+</string>
+<string name="app_set_btn">Haga clic aquí para cambiar la configuración de aplicaciones</string>
+<string name="cst">Configuración avanzada</string>
+<string name="net_txt">Seleccione la red que desea utilizar Modo Ahorro de energía pulg Especialmente útil cuando no está dentro del alcance WIFI y quieren reducir los costos de datos móviles \ n \ nNota:.. Modo automático primero se conecta a la red Wi-Fi disponible \ n \ nSi WIFI no está disponible, a continuación, conectarse a los datos móviles. \ n \ nSi no utilizar los datos móviles, por favor seleccione sólo WIFI.</string>
+
+<string name="wifion">Wifi en</string>
+<string name="wifioff">Wifi apagado</string>
+<string name="poweroff">Ahorro de energía apagado</string>
+<string name="poweron">Ahorro de energía en</string>
+<string name="dataoff">datos fuera</string>
+<string name="dataon">Los datos sobre</string>
+<string name="appnotfound">La aplicación no se ha encontrado</string>
+<string name="wait">Por favor espere .. configurar el ahorro de batería</string>
+<string name="psslpon">Modo de ahorro de energía durante el modo de reposo</string>
+<string name="psslpoff">Ahorro de energía modo OFF durante el modo de reposo</string>
+<string name="nonet">Red inalcanzable</string>
+<string name="nonotif">No hay notificaciones encontrado</string>
+<string name="unerr">Error desconocido</string>
+<string name="setsave">Configuración de Guardado</string>
+<string name="welc">bienvenido</string>
+<string name="setchg">La configuración modificada con éxito</string>
+
+</resources>

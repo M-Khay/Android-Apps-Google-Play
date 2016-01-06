@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">Optimal Battery Saver</string>
+    <string name="auto">Automatique</string>
+    <string name="ps_mode">Optimal Battery Saver</string>
+    <string name="wid_upgr">S\'il vous plaît mettre à jour afin de permettre le widget</string>
+    <string name="wid_upgr_txt">Mettre à niveau maintenant que pour 99 cents!</string>
+    <string name="data">DONNÉES</string>
+    <string name="more_apps">Applications plus cool!</string>
+     <string name="settings">réglages</string>
+    <string name="menu_settings">réglages</string>
+    <string name="refund_pol">*Vous êtes couvert par la politique de remboursement Google Play\'s. \ n \ nPour une raison quelconque, si vous n\'aimez pas l\'application, vous êtes libre de le rembourser, conformément à la politique de Google Play remboursement magasin.</string>
+     <string name="timeselected">Réglez l\'intervalle de temps</string>
+    <string name="power_saver">Mode économie d\'énergie</string>
+    <string name="phn_set">Paramètres du téléphone</string>
+    <string name="power_saver_txt">Mode économie d\'énergie</string>
+    <string name="title_activity_main">ActivitéPrincipal</string>
+    <string name="pw_set">Quand en mode économie d\'énergie, WIFI / Internet mobile est allumé et s\'éteint à intervalles afin d\'économiser la batterie et la bande passante. Vous pouvez laisser les valeurs par défaut ou choisir de le personnaliser ci-dessous.</string>
+    <string name="pw_set2">Modifier les paramètres d\'intervalle:</string>
+<string name="pw_set3">À des intervalles de:</string>
+<string name="net_on">N\'oubliez pas d\'ajouter le widget de bureau afin que vous puissiez contrôler WIFI, DATA et la mise directement depuis votre bureau! \n\n Tourner à Internet à chaque fois que le téléphone est déverrouillé?</string>
+<string name="min">minutes</string>
+<string name="slp_on">Mode Economie d\'énergie est activé en mode veille. \ nWIFI / Réseau de données restera éteint lorsque le téléphone est en mode veille. \ n \ nWifi / données sera activé avec le téléphone est en cours d\'utilisation, en fonction des paramètres ci-dessus.</string>
+<string name="slp_off">Mode économie d\'énergie est désactivée en mode veille. \ nWIFI / Réseau de données occasionnellement mettre en marche lorsque le téléphone est en mode veille. \ n \ nWifi / données sera activé avec le téléphone est en cours d\'utilisation.</string>
+<string name="cur_state">État actuel:</string>
+<string name="change_set">modifier les paramètres</string>
+<string name="change_set2">Appuyez ici pour confirmer les modifications</string>
+<string name="app_spec">Réglages pour applications spécifiques</string>
+<string name="net">réseau</string>
+<string name="upd_free">** Et obtenir des mises à jour à vie gratuitement **</string>
+<string name="upsell_btn">Téléchargez-le maintenant pour seulement 99 cents</string>
+<string name="upsell_copy">Beaucoup de temps et d\'efforts dans la création d\'applications. Pour bénéficier de toutes les fonctionnalités, s\'il vous plaît envisager de passer à la version PRO (no ads) pour seulement 99 cents! \ n \ nVérifiez également obtenir un widget de bureau super cool pour activer / désactiver les réseaux Wifi et des données. \n futures mises à jour nTous sont gratuits. </string>
+<string name="upsell_copy2">La version avancée vous donne un accès facile le widget de bureau ainsi que tous les paramètres avancés pour faire de votre batterie dure plus longtemps.</string>
+<string name="feat_pro">Fonctions de la version complète:</string>
+<string name="confirm">confirmer les paramètres</string>
+<string name="notif">Notifications</string>
+<string name="cust_apps">Personnaliser les paramètres d\'application</string>
+<string name="adv_set">Paramètres avancés</string>
+<string name="adv_set_txt">Si vous souhaitez modifier les paramètres par défaut d\'économie d\'énergie, appuyez sur le bouton ci-dessous.</string>
+<string name="sleep">Réglage Mode Veille</string>
+<string name="sleep_txt">Choisir OUI (c\'est d\'économie d\'énergie ON) ci-dessous gardera Internet / WiFi éteint alors que votre téléphone est en mode veille.</string>
+<string name="wifi">WIFI</string>
+<string name="simple_mode">Retour au mode standard</string>
+<string name="welcome">Cette application est conçue pour économiser les ressources de la batterie en régulant l\'utilisation de votre réseau Wi-Fi et mobile des données. \ n \ n Vous pouvez faire votre batterie durera beaucoup plus longtemps et aussi d\'économiser de l\'argent sur n\'importe quel réseau mobile auquel vous vous connectez. \ n \ nTout vous devez faire est de mettre en marche l\'économiseur d\'énergie en cliquant sur le bouton ci-dessus. \n
+</string>
+<string name="mob_net">Internet Mobile</string>
+<string name="app_set">Tapez sur le bouton ci-dessous pour personnaliser les paramètres d\'application connexes. \ nSelecting une application dans la liste gardera Internet ON pendant que sa demande est en cours d\'utilisation active. \ n \ neg. Si vous avez sélectionné dans la liste Facebook, WIFI continuera à fonctionner alors que Facebook est l\'actif (visible) application.</string>
+<string name="app_set_btn">Cliquez ici pour changer de paramètres de l\'application</string>
+<string name="cst">Paramètres avancés</string>
+<string name="net_txt">Choisissez le réseau auquel vous souhaitez utiliser le mode veille po particulièrement utile lorsque vous n\'êtes pas à portée WIFI et voulez couper les coûts mobiles de données \ n \ nRemarque:.. Mode automatique va d\'abord se connecter au réseau WIFI disponible \ n \ nSi WIFI n\'est pas disponible, la connexion aux données mobiles. \ n \ nSi vous n\'utilisez pas de données mobiles, s\'il vous plaît sélectionner WIFI seulement.</string>
+
+<string name="wifion">Wifi is on</string>
+<string name="wifioff">Wifi est Désactivé</string>
+<string name="poweroff">Economie d\'énergie hors</string>
+<string name="poweron">Economie d\'énergie sur</string>
+<string name="dataoff">données hors</string>
+<string name="dataon">données sur</string>
+<string name="appnotfound">Application introuvable</string>
+<string name="wait">S\'il vous plaît attendre .. mise en place de l\'économiseur de batterie</string>
+<string name="psslpon">Mode Économie d\'énergie en mode veille sur</string>
+<string name="psslpoff">Mode économie d\'énergie hors tension pendant le mode veille</string>
+<string name="nonet">réseau injoignable</string>
+<string name="nonotif">Aucune notification n\'a été trouvé</string>
+<string name="unerr">erreur inconnue</string>
+<string name="setsave">paramètres enregistrés</string>
+<string name="welc">accueil</string>
+<string name="setchg">Réglages modifiées avec succès</string>
+
+</resources>

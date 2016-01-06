@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:id="@+id/relpref"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#1A1B1D" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+           
+            <Button
+                android:id="@+id/simple_mode"
+                style="@style/TextColor"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="6dp"
+                android:background="@drawable/back"
+               
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/textView1"
+                style="@style/Heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/simple_mode"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="24dp"
+                android:text="@string/phn_set"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#3BB9FF" />
+
+            <TextView
+                android:id="@+id/textView2"
+                style="@style/TextColor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textView1"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/net_on"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <ToggleButton
+                android:id="@+id/netonwakeup"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/textView2"
+                android:layout_margin="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="28dp"
+                android:background="@drawable/button_stroke"
+                
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView3"
+                style="@style/Heading"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/netonwakeup"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/sleep"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#3BB9FF" />
+
+            <TextView
+                android:id="@+id/textView4"
+                style="@style/TextColor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textView3"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="3dp"
+                android:text="@string/sleep_txt"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <ToggleButton
+                android:id="@+id/sleep_mode"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_alignRight="@+id/netonwakeup"
+                android:layout_below="@+id/textView4"
+                android:layout_margin="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_stroke"
+                android:text="ToggleButton"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/sleep_mode_txt"
+                style="@style/TextColor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/sleep_mode"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="5dp"
+                android:text="@string/cur_state" />
+
+            <TextView
+                android:id="@+id/textView5"
+                style="@style/Heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/sleep_mode_txt"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="20dp"
+                android:text="@string/net"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#3BB9FF" />
+
+            <TextView
+                android:id="@+id/textView6"
+                style="@style/TextColor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textView5"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/net_txt"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <RadioGroup
+                android:id="@+id/radioGroup1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/sleep_mode"
+                android:layout_below="@+id/textView6"
+                android:layout_marginTop="34dp" >
+
+                <RadioButton
+                    android:id="@+id/autonet"
+                    style="@style/TextColor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/auto" />
+
+                <RadioButton
+                    android:id="@+id/wifi"
+                    style="@style/TextColor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="@string/wifi" />
+
+                <RadioButton
+                    android:id="@+id/mob_net"
+                    style="@style/TextColor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mob_net" />
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/textView7"
+                style="@style/Heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/radioGroup1"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="20dp"
+                android:text="@string/app_spec"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#3BB9FF" />
+
+            <TextView
+                android:id="@+id/textView8"
+                style="@style/TextColor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textView7"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/app_set"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <Button
+                android:id="@+id/app_set"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textView8"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_green_stroke"
+                android:text="@string/app_set_btn"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView9"
+                style="@style/Heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/app_set"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/menu_settings"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#3BB9FF" />
+
+            <TextView
+                android:id="@+id/textView10"
+                style="@style/TextColor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textView9"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/pw_set"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/textView10"
+                android:layout_margin="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_green_stroke"
+                android:text="@string/timeselected"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_below="@+id/button1" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

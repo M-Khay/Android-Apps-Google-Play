@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Optimal Battery Saver</string>
+    <string name="ps_mode">Optimal Battery Saver</string>
+    <string name="wid_upgr">위젯을 사용할 수 있게 업그레이드하여 주세요.</string>
+    <string name="wid_upgr_txt">지금 99센트로 업그레이드하세요!</string>
+    <string name="data">데이터</string>
+    <string name="auto">자동</string>
+    <string name="more_apps">더 근사한 앱들!</string>
+     <string name="settings">설정</string>
+    <string name="menu_settings">설정</string>
+    <string name="refund_pol">*Google Play의 환불 정책이 적용됩니다. 어떠한 이유로, 앱이 마음에 들지 않으면, Google Play Store 환불 정책에 따라 마음대로 환불하실 수 있습니다.</string>
+     <string name="timeselected">시간 간격 설정</string>
+    <string name="power_saver">전 모드절</string>
+    <string name="phn_set">전화 설정</string>
+    <string name="power_saver_txt">전 모드절</string>
+    <string name="title_activity_main">주요 활동</string>
+    <string name="pw_set">절전 모드에 있을 때, WIFI/모바일 인터넷은 배터리와 대역폭을 절감하기 위해 일정한 간격으로 실행되었다가 해제됩니다. 기본값을 벗어나거나 아래에서 사용자 지정할 수 있습니다.</string>
+    <string name="pw_set2">간격 설정 변경:</string>
+<string name="pw_set3">간격:</string>
+<string name="net_on">데스크톱 위젯을 추가하면 WIFI, DATA 및 설정을 데스크톱에서 바로 관리할 수 있습니다!전화가 잠길때마다 인터넷을 실행하시겠습니까?</string>
+<string name="min">분</string>
+<string name="slp_on">수면모드 사용 중 절전모드가 실행됩니다.전화가 수면모드에 있으면 WIFI/데이터 네트워크가 해제됩니다. 위의 설정에 따라 전화기를 사용 중이면 WIFI/데이터를 사용할 수 있습니다.</string>
+<string name="slp_off">수면 모드 중에는 절전모드가 해제되어 있습니다. \n 전화기가 수면 모드로 있는 동안  WIFI/데이터 네트워크가 가끔씩 실행됩니다. 전화기를 사용하면 WIFI/데이터를 사용할 수 있습니다. </string>
+<string name="cur_state">현재 상태:</string>
+<string name="change_set">설정 변경</string>
+<string name="change_set2">여기를 탭하여 변경을 확인하세요.</string>
+<string name="app_spec">애플리케이션 특정 설정</string>
+<string name="net">네트워크</string>
+<string name="upd_free">** 평생 업데이트를 무료로 하세요 **</string>
+<string name="upsell_btn">지금 99센트로 업그레이드하세요!</string>
+<string name="upsell_copy">앱을 개발하는데 많은 시간과 노력이 투입됩니다. 모든 기능을 이용하려면, 불과 99센트로 PRO 버전(광고 없음)으로 업그레이드해보세요! \n\n또한 멋진 데스크톱 위젯을 받아 WIFI와 데이터 네트워크를 ON/OFF해보세요.  \n향후 모든 업그레이드가 무료입니다. </string>
+<string name="upsell_copy2">고급 버전으로 배터리를 더욱 오래 사용할 수 있도록 모든 고급 설정과 함께 데스크톱 위젯에 손쉽게 액세스하세요.</string>
+<string name="feat_pro">풀 버전의 기능:</string>
+<string name="confirm">설정 확인</string>
+<string name="notif">알림</string>
+<string name="cust_apps">사용자 지정 애플리케이션 설정 </string>
+<string name="adv_set">고급 설정</string>
+<string name="adv_set_txt">기본 절전 설정을 변경하려면, 아래의 버튼을 탭하세요.</string>
+<string name="sleep">수면 모드 설정</string>
+<string name="sleep_txt">아래의 예를 선택(절전모드 ON)하면 전화기가 수면 모드에 있는 동안 인터넷/WIFI가 해제되어 있습니다.</string>
+<string name="wifi">WIFI</string>
+<string name="simple_mode">단순 모드로 돌아가기</string>
+<string name="welcome">이 앱은 WIFI와 모바일 데이터를 규제하여 배터리 전원을 절약하도록 고안되어 있습니다. 배터리를 훨씬 더 오래 사용할 수 있으며 연결한 모든 모바일 네트워크에서 비용을 절감할 수 있습니다.위의 버튼을 클릭하여 절전 모드를 실행하기만 하면 됩니다.
+</string>
+<string name="mob_net">모바일 인터넷</string>
+<string name="app_set">아래의 버튼을 탭하여 애플리케이션 관련 설정을 사용자 지정합니다.목록에서 애플리케이션을 선택하면 해당 애플리케이션을 사용하는 동안 인터넷은 실행됩니다.예: 목록에서 Facebook을 선택하는 경우, Facebook이 액티브(보이는) 애플리케이션이면 WIFI를 계속 사용합니다.</string>
+<string name="app_set_btn">여기를 클릭하여 앱 설정을 바꾸세요.</string>
+<string name="cst">고급 설정</string>
+<string name="net_txt">절전 모드를 사용할 네트워크를 선택하세요. WIFI범위에 없거나 모바일 데이터 비용을 줄이고자 할 때 특히 유용합니다.주: 자동모드는 먼저 사용 가능한 WIFI 네트워크에 연결합니다.만약 WIFI를 사용할 수 없다면, 모바일 데이터로 연결합니다.모바일 데이터를 사용하지 않는다면, WIFI전용을 선택하세요.</string>
+
+<string name="wifion">WIFI 사용</string>
+<string name="wifioff">WIFI 해제</string>
+<string name="poweroff">절전모드 해제</string>
+<string name="poweron">절전모드 사용</string>
+<string name="dataoff">데이터 해제</string>
+<string name="dataon">데이터 사용</string>
+<string name="appnotfound">애플리케이션이 없음</string>
+<string name="wait">잠시 기다려 주십시오…배터리 세이버를 설정 중입니다.</string>
+<string name="psslpon">수면모드 사용 중 절전모드가 실행됩니다.</string>
+<string name="psslpoff">수면모드 사용 중 절전모드가 해제됩니다.</string>
+<string name="nonet">네트워크에 도달할 수 없음</string>
+<string name="nonotif">알림이 없음</string>
+<string name="unerr">알 수 없는 오류</string>
+<string name="setsave">저장된 설정</string>
+<string name="welc">환영합니다.</string>
+<string name="setchg">설정이 변경되었습니다.</string>
+
+</resources>
